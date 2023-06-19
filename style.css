@@ -1,10 +1,24 @@
 body
 {
     background-color: rgba(0, 0, 0, 0.746);
-    color: white;
+    color: rgba(255, 255, 255, 0.942);
 }
 h1
 {
     text-align: center;
     
 }
+#link1,#link2,#dot2,#dot1
+{
+    font-size: 18px;
+    color: rgb(0, 255, 47);
+    font: bold;
+    text-decoration: none;
+}
+p
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align:var();
+    float:inline-start;
+}
+
