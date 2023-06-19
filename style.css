@@ -21,4 +21,28 @@ p
     text-align:var();
     float:inline-start;
 }
+.samosa
+{
+    background-color: rgb(240, 238, 227);
+    color: black;
+}
+.samosa h1
+{
+    text-decoration:dashed;
+    color: rgba(0, 0, 0, 0.434);
+    font: 800;
+}
+.samosa p
+{
+    line-height: 0.5;
+    font-weight: 900;
+}
+.samosa h2
+{
+    font-weight: 900;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+
 
